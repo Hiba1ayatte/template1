@@ -5,7 +5,7 @@
   --section-padding: 60px;
   --section-background: #f6f6f6;
   --main-duration: 0.5s;
-  color: #10cab7;
+  border:  1px solid black;
 }
 /* End Variables */
 /* Start Global Rules */
