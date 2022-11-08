@@ -6,6 +6,8 @@
   --section-background: #f6f6f6;
   --main-duration: 0.5s;
   border:  1px solid black;
+  color: red;
+  margin: 10px;
 }
 /* End Variables */
 /* Start Global Rules */
